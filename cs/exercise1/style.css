@@ -1,12 +1,12 @@
 body {
-  background-color: #0FDEBA;
+  background-color: #0fde43bd;
   font-family: Verdana, sans-serif; 
 }
 
 h1 {
   color: #090909;
 }
-p, ul {
-  color: #F5F3F8;
+p{
+  color: black;
 }
 
